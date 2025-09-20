@@ -66,17 +66,13 @@
             "id": "f1e1a0bfa2180fe3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "bases",
               "state": {
-                "file": "無題のファイル.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "無題のファイル 1.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "無題のファイル"
+              "icon": "lucide-table",
+              "title": "無題のファイル 1"
             }
           }
         ],
@@ -201,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.canvas",
+                "file": "無題のファイル 1.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "無題のファイル 1のアウトライン"
             }
           }
         ],
