@@ -35,13 +35,14 @@
             "id": "9f84fea85fc12510",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル.base",
-                "viewName": "Table"
+                "file": "2025-09-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "無題のファイル"
+              "icon": "lucide-file",
+              "title": "2025-09-20"
             }
           }
         ],
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.base",
+                "file": "2025-09-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "2025-09-20のアウトライン"
             }
           }
         ],
@@ -199,12 +200,13 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "9f84fea85fc12510",
+  "active": "6611bfb8266a6b2a",
   "lastOpenFiles": [
-    "2025-09-20.md",
-    "test.md",
+    "無題のフォルダ",
     "Untitled.md",
+    "2025-09-20.md",
     "無題のファイル.base",
+    "test.md",
     "無題のファイル.canvas",
     "Welcome.md",
     "無題のファイル 3.base",
