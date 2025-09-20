@@ -66,13 +66,17 @@
             "id": "f1e1a0bfa2180fe3",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "無題のファイル 1.base",
-                "viewName": "Table"
+                "file": "無題のファイル 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-table",
-              "title": "無題のファイル 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "無題のファイル 2"
             }
           }
         ],
@@ -197,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル 1.base",
+                "file": "無題のファイル 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイル 1のアウトライン"
+              "title": "無題のファイル 2のアウトライン"
             }
           }
         ],
@@ -232,13 +236,13 @@
   },
   "active": "f1e1a0bfa2180fe3",
   "lastOpenFiles": [
-    "無題のファイル.base",
-    "無題のファイル.canvas",
-    "無題のファイル 1.base",
-    "無題のファイル 1.canvas",
-    "無題のファイル 2.base",
-    "無題のファイル 2.canvas",
     "無題のファイル 3.base",
+    "無題のファイル 2.base",
+    "無題のファイル 1.base",
+    "無題のファイル.base",
+    "無題のファイル 1.canvas",
+    "無題のファイル.canvas",
+    "無題のファイル 2.canvas",
     "test.md",
     "Untitled.md",
     "2025-09-20.md",
